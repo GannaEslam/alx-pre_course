@@ -3,5 +3,9 @@ echo
 ALX
 echo ALX
 #!bin/bash
+<<<<<<< HEAD
 echo"software school is cool"
  
+=======
+echo "software school" 
+>>>>>>> update_script
